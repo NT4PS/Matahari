@@ -26,8 +26,8 @@ heder = {'Host': 'thor.matahari.com',
            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,ms;q=0.6'}
 
 data = {'emailAddress': 'noobie@mail.com',
-           'firstName': 'Noobie',
-           'lastName': 'Gans',
+           'firstName': 'Adix',
+           'lastName': 'slips',
            'mobileNumber': no,
            'mccCardNumber': '',
            'password': 'asecc123',
