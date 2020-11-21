@@ -1,10 +1,41 @@
 import requests,time
 
+print("")
+typing('Welcom...')
+typing('Jangan Lupa Shalat Woiii')
+time.sleep(5)
+os.system('clear')
+slowprint("""
+\33[31;1m            _,.-------.,_
+        ,;~'             '~;,
+      ,;                     ;,
+     ;                         ;
+    ,'                         ',
+   ,;                           ;,
+   ; ;      .           .      ; ;
+   | ;   ______       ______   ; |
+   |  '/~'     ~' . '~     '~\'  |
+   |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+    |   |        }:{        |   |
+    |   l       / | \       !   |
+    .~  (__,.--' .^. '--.,__)  ~.
+    |     ---;' / | \ ';---     |
+     \__.       \/^\/       .__/
+      V| \                 / |V
+       | |T~\___!___!___/~T| |
+       | |'               '| |
+       |  \,    _____    ,/  |
+        \   '~~~~~~~~~~~'   /
+          \   .       .   /
+            \.    ^    ./
+              ^~~~^~~~^
+""")
+
+
 print("""
 	[ MATAHARI MALL OTP ]
-	   -nobie | NT4PS -
-Instagram : ah.adix
-Facebook  : **
+	   -NT4PS | noobie-
+                 ADIX
 """)
 
 no = input('ex : 08xx\n[In] Phone: ')
@@ -26,8 +57,8 @@ heder = {'Host': 'thor.matahari.com',
            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,ms;q=0.6'}
 
 data = {'emailAddress': 'noobie@mail.com',
-           'firstName': 'Adix',
-           'lastName': 'slips',
+           'firstName': 'Noobie',
+           'lastName': 'Gans',
            'mobileNumber': no,
            'mccCardNumber': '',
            'password': 'asecc123',
