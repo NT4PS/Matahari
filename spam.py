@@ -1,10 +1,5 @@
 import requests,time
 
-
-print('Welcom...')
-print('Jangan Lupa Shalat Woiii')
-time.sleep(5)
-os.system('clear')
 print("""
 \33[31;1m            _,.-------.,_
         ,;~'             '~;,
@@ -30,7 +25,7 @@ print("""
             \.    ^    ./
               ^~~~^~~~^
 """)
-
+time.sleep(2)
 
 print("""
 	[ MATAHARI MALL OTP ]
