@@ -1,11 +1,11 @@
 import requests,time
 
-print("")
-typing('Welcom...')
-typing('Jangan Lupa Shalat Woiii')
+
+print('Welcom...')
+print('Jangan Lupa Shalat Woiii')
 time.sleep(5)
 os.system('clear')
-slowprint("""
+print("""
 \33[31;1m            _,.-------.,_
         ,;~'             '~;,
       ,;                     ;,
