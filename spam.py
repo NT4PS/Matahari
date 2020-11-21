@@ -27,10 +27,12 @@ print("""
 """)
 time.sleep(2)
 
+import requests,time
+
 print("""
 	[ MATAHARI MALL OTP ]
 	   -NT4PS | noobie-
-                 ADIX
+                ADIX
 """)
 
 no = input('ex : 08xx\n[In] Phone: ')
